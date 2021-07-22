@@ -1,0 +1,17 @@
+*{
+    font-family: 'Mulish', sans-serif;
+}
+.navbar{
+    margin-left: 10%;
+}
+.navbar-nav{
+    margin-left: 35%;
+}
+.Virtual h1{
+    font-size: 55px;
+} 
+.footer-bg{
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+
+}
+
